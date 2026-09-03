@@ -1,0 +1,16 @@
+# LTspice generated files
+*.raw
+*.log
+*.op.raw
+*.fft
+*.net
+*.db
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+~*
